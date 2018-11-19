@@ -1,2 +1,1 @@
-include vocab/yue.vocab
-include vocab/cmn.vocab
+graft cantocut/vocab
